@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SkiBall
+comment0.text=\r\n\ Creates\ a\ slightly\ modified\ version\ of\ SkeeBall\ using\ java\ swing\ elements\r\n\r\n\ @author\ Daniel\ Graham,\ Aimen\ Harizi,\ Zohaib\ Asif\r\n\ @version\ 4/7/2021\r\n
+comment1.params=
+comment1.target=void\ run()
+comment1.text=\r\n\ Runs\ the\ main\ logic\ for\ the\ SkiBall\ graphics\r\n
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment3.params=e
+comment3.target=void\ mousePressed(java.awt.event.MouseEvent)
+comment3.text=\r\n\ Checks\ if\ the\ mouse\ has\ been\ pressed\r\n\ \r\n\ @param\ e\ the\ action\ event\r\n
+comment4.params=e
+comment4.target=void\ mouseReleased(java.awt.event.MouseEvent)
+comment4.text=\r\n\ Checks\ if\ the\ mouse\ has\ been\ released\r\n\ \r\n\ @param\ e\ the\ action\ event\r\n
+comment5.params=e
+comment5.target=void\ mouseDragged(java.awt.event.MouseEvent)
+comment5.text=\r\n\ Checks\ if\ the\ mouse\ has\ been\ dragged\r\n\ \r\n\ @param\ e\ the\ action\ event\r\n
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.text=\r\n\ Checks\ for\ any\ presses\ of\ JButtons\r\n\ \r\n\ @param\ e\ the\ action\ event\r\n
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
